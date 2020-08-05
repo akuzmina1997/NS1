@@ -1,0 +1,10 @@
+# ingnore tmp catalog 
+tmp/
+
+# ignore _old, _backup
+*_old
+*_backup
+
+# ignore Thumbs.db and .DS_Store
+Thumbs.db
+.DS_Store
